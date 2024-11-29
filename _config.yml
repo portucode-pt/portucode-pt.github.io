@@ -1,16 +1,5 @@
 remote_theme: "portucode-pt/jekyll-terminal-theme"
 
-url: https://portucode-pt.github.io
-
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-
 css: assets/css
 js: assets/js
 images: assets/images
