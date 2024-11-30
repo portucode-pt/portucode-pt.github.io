@@ -79,7 +79,7 @@ Big shout-out to these amazing people for inspiring and supporting me:
 
 - Kevadesu  
 - Man Face  
-- AverageNiko | EwaskorElektr
+- AverageNiko aka EwaskorElektr
 - Nugget.hype  
 - Lancia Geek  
 - Ryukin #1  
