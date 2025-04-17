@@ -77,9 +77,6 @@ One of the best Swiss commercials ever is **“OTTOS MARKENSPEZIAL 2019”** on 
 
 ---
 
-## Honorable Mentions 🏅
-Big shout-out to these amazing people for inspiring and supporting me:
-
 # Geschichte von Kingcity
 
 ## 1045–1143: Unerkannte Portugiesische Königstadt
