@@ -27,7 +27,7 @@ I'm a big fan of classic and modern phones, and I’ve built a growing collectio
 - Samsung E1170i  
 
 ### Huawei
-- Huawei P30 (My current main device)  
+- Huawei P30
 
 ### Nokia
 - Nokia 6310i  
@@ -45,7 +45,10 @@ I'm a big fan of classic and modern phones, and I’ve built a growing collectio
 ### Alcatel
 - Alcatel OneTouch Smartphone (exact model unknown)  
 
----
+### Apple
+-iPhone 4s
+-iPhone SE 1
+-iPhone SE 2 (Main)
 
 ## Social Media 🌐
 You can connect with me on my social media platforms here:
