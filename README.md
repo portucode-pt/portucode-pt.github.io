@@ -100,6 +100,7 @@ Falls du einen Button ohne (Hyper)link hinzufügen möchtest, nutze dies:
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2834.gif">
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2836.gif">
 </div>
+<img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/button.jpeg">
 
 ---
 
