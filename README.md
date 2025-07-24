@@ -77,6 +77,23 @@ I’m currently working on several exciting projects. Here are the highlights:
 
 ---
 
+## Buttons 🛜
+<!-- ANLEITUNG FÜR BUTTONS!:
+Um einen hinzuzufügen mit Link, nutze diese Linie:
+
+<a href="https://link.zur.webseite"><img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="https://link.zum/bild.png"></a>
+
+Falls du einen Button ohne (Hyper)link hinzufügen möchtest, nutze dies:
+
+<img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="https://link.zum/bild.png">
+
+-->
+
+<img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/88x31.gif">
+<a href="https://kevadesu.github.io"><img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="https://kevadesu.github.io/88x31.gif"></a>
+
+---
+
 ## Fun Fact 🤓
 One of the best Swiss commercials ever is **“OTTOS MARKENSPEZIAL 2019”** on YouTube. Seriously, check it out—it’s legendary. 😂  
 
