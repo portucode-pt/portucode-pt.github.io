@@ -81,27 +81,27 @@ I’m currently working on several exciting projects. Here are the highlights:
 <!-- ANLEITUNG FÜR BUTTONS!:
 Um einen hinzuzufügen mit Link, nutze diese Linie:
 
-<a href="https://link.zur.webseite"><img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="https://link.zum/bild.png"></a>
+<a href="https://link.zur.webseite"><img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="https://link.zum/bild.png"></a>
 
 Falls du einen Button ohne (Hyper)link hinzufügen möchtest, nutze dies:
 
-<img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="https://link.zum/bild.png">
+<img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="https://link.zum/bild.png">
 
 -->
-<div style="display: flex;">
-   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/88x31.gif">
-   <a href="https://kevadesu.github.io"><img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="">IMG_2757.gif</a>
-   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2828.gif">
-   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2829.gif">
-   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2830.gif">
-   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2831.gif">
-   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2832.gif">
-   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2833.gif">
-   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2834.gif">
-   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2836.gif">
+<div style="line-height: 0;">
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/88x31.gif">
+   <a href="https://kevadesu.github.io"><img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2757.gif"></a>
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2828.gif">
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2829.gif">
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2830.gif">
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2831.gif">
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2832.gif">
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2833.gif">
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2834.gif">
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2836.gif">
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/button.jpeg">
+   <img width="88" height="31" style="display: inline-block; image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/button.gif">
 </div>
-<img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/button.jpeg">
-<img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/button.gif">
 
 ---
 
