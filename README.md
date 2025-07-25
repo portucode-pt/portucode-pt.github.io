@@ -88,7 +88,7 @@ Falls du einen Button ohne (Hyper)link hinzufügen möchtest, nutze dies:
 <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="https://link.zum/bild.png">
 
 -->
-<div style="display: flex; max-width: 80%;">
+<div style="display: flex; max-width: 80%; overflow: none; flex-wrap: wrap;">
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/88x31.gif">
    <a href="https://kevadesu.github.io"><img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2757.gif"></a>
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2828.gif">
