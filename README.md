@@ -88,9 +88,9 @@ Falls du einen Button ohne (Hyper)link hinzufügen möchtest, nutze dies:
 <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="https://link.zum/bild.png">
 
 -->
-<div style="display: flex;">
+<div style="display: flex; max-width: 80%;">
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/88x31.gif">
-   <a href="https://kevadesu.github.io"><img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="">IMG_2757.gif</a>
+   <a href="https://kevadesu.github.io"><img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2757.gif"></a>
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2828.gif">
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2829.gif">
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2830.gif">
@@ -99,9 +99,9 @@ Falls du einen Button ohne (Hyper)link hinzufügen möchtest, nutze dies:
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2833.gif">
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2834.gif">
    <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/IMG_2836.gif">
+   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/button.jpeg">
+   <img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/button.gif">
 </div>
-<img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/button.jpeg">
-<img style="image-rendering: pixelated; image-rendering: crisp-edges;" src="assets/button.gif">
 
 ---
 
