@@ -7,6 +7,7 @@ Welcome to my GitHub page! Here you can learn more about me, my interests, my pr
 ## About Me
 - **Name**: Cristiano
 - **Sexuality** Bi-Sexual
+- **Age**: √169
 - **Interests**: Music, technology, cycling  
 - **Hobbies**:  
   - Working with tech, especially smartphones  
@@ -20,9 +21,9 @@ I'm a big fan of classic and modern phones, and I’ve built a growing collectio
 
 ### Samsung
 - Samsung S2 Plus  
-- Samsung S  
+- Samsung A52s (Secondary)
 - Samsung S5  
-- Samsung A5 2016 (2x)  
+- Samsung A5 2016
 - Samsung J6  
 - Samsung J6 Plus  
 - Samsung E1170i  
@@ -47,23 +48,13 @@ I'm a big fan of classic and modern phones, and I’ve built a growing collectio
 - Alcatel OneTouch Smartphone (exact model unknown)  
 
 ### Apple
-- iPhone 4s
+- iPod Touch 4
 - iPhone SE 1
 - iPhone XS
 - iPhone 16E (Main)
 
 ### Kazam
 - Kazam Trooper (destroyed, trying to get back)
-
-## Social Media 🌐
-You can connect with me on my social media platforms here:
-
-- **X (Twitter)**: [@bonelabsford](https://x.com/bonelabsford)  
-- **TikTok**: [nøva mobile](https://www.tiktok.com/@novamobile_pt?_t=ZN-8yFgD8X5F70&_r=1)
-- **YouTube**: [@nøvamobile.pt](https://www.youtube.com/@nøvamobile.pt)
-- **Discord**: @nova.mobile
-- **GitHub**: [@portucode-pt](https://github.com/portucode-pt)  
-
 ---
 
 ## Current Projects 🚀
@@ -129,4 +120,5 @@ Special Thanks to:
 ---
 
 Thank you for visiting my GitHub page! Feel free to reach out to me on any of my social media platforms or check out my projects. 🚴‍♂️📱
+
 
